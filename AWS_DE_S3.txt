@@ -1,1 +1,4 @@
 Now i'm Modified
+
+
+making changes in sample 1,2 and 3 trying git add .

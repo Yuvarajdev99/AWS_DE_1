@@ -1,3 +1,6 @@
 i'm sample created in local system at first.
 
 Now i moved to Git Hub
+
+
+making changes in sample 1,2 and 3 trying git add .
