@@ -1,0 +1,3 @@
+i'm sample created in local system at first.
+
+Now i moved to Git Hub
